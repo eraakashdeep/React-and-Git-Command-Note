@@ -166,6 +166,7 @@ const App = () => {
 export default App;
 
 //aws process
+
 -create New S3 bucket
 -Upload the build file
 -follow the step to configure
